@@ -1,0 +1,13 @@
+## 📂 Dataset
+
+The dataset used in this project was prepared by compiling and integrating information from multiple official public sources. The raw data was collected, cleaned, validated, and merged into a unified dataset for analysis.
+
+### Primary Data Sources
+
+- Central Electricity Authority (CEA)
+- POSOCO / Grid India
+- Central Electricity Regulatory Commission (CERC)
+- National Electricity Plan (NEP)
+- NASA POWER Project (Weather Data)
+
+The processed dataset is not included in this repository as it was manually curated and is reserved for future publication.
