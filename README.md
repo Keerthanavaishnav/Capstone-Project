@@ -111,6 +111,14 @@ The project uses multiple datasets collected, integrated, and processed to suppo
 - Power Generation Dataset – Source-wise electricity generation data (Thermal, Solar, Wind, Hydro, and Nuclear) used for demand-supply analysis and generation optimization.
 - Installed Capacity Dataset – Historical and projected installed generation capacity for all major generation sources.
 - Weather Dataset(NASA POWER API) – Historical weather variables including temperature, humidity, rainfall, wind speed, and solar radiation used for feature engineering.
+
+Primary Data Sources
+
+- Central Electricity Authority (CEA)
+- POSOCO / Grid India
+- Central Electricity Regulatory Commission (CERC)
+- National Electricity Plan (NEP)
+- NASA POWER Project (Weather Data)
   
 Note: 
 The analysis was performed using publicly available electricity datasets obtained from Kaggle. The original dataset includes electricity demand and generation data for multiple regions of India. For this project, the dataset was cleaned, preprocessed, and filtered to focus on the Southern Region (Tamil Nadu, Karnataka, Andhra Pradesh, Telangana, and Kerala).
