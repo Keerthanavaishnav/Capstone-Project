@@ -8,89 +8,89 @@ This project presents an integrated analytics framework for forecasting electric
 
 The study focuses on the five Southern Region states:
 
-Andhra Pradesh
+-Andhra Pradesh
 
-Telangana
+-Telangana
 
-Karnataka
+-Karnataka
 
-Kerala
+-Kerala
 
-Tamil Nadu
+-Tamil Nadu
 
 The project combines data analytics, machine learning, optimization techniques, and scenario analysis to support sustainable and cost-effective electricity planning.
 
 🎯 Objectives
 
-Forecast future electricity demand.
+-Forecast future electricity demand.
 
-Optimize the electricity generation mix for minimum generation cost.
+-Optimize the electricity generation mix for minimum generation cost.
 
-Analyze renewable energy integration.
+-Analyze renewable energy integration.
 
-Evaluate power system performance under different future scenarios.
+-Evaluate power system performance under different future scenarios.
 
-Support data-driven planning for a reliable and sustainable power grid.
+-Support data-driven planning for a reliable and sustainable power grid.
 
 🛠 Tools and Technologies
 
-Python
+-Python
 
-Pandas
+-Pandas
 
-NumPy
+-NumPy
 
-Scikit-learn
+-Scikit-learn
 
-TensorFlow / Keras
+-TensorFlow / Keras
 
-XGBoost
+-XGBoost
 
-PuLP (Linear Programming)
+-PuLP (Linear Programming)
 
-Matplotlib
+-Matplotlib
 
-Microsoft Excel
+-Microsoft Excel
 
 📊 Project Workflow
 
-Data Collection
+-Data Collection
 
-Data Preprocessing
+-Data Preprocessing
 
-Electricity Demand Forecasting
+-Electricity Demand-Supply Forecasting
 
-Generation Cost Optimization
+-Generation Cost Optimization
 
-Scenario Analysis
+-Scenario Analysis
 
-Result Interpretation
+-Result Interpretation
 
 🌍 Study Area
 
 The analysis covers the Southern Regional Power Grid of India, including:
 
-Tamil Nadu
+-Tamil Nadu
 
-Andhra Pradesh
+-Andhra Pradesh
 
-Telangana
+-Telangana
 
-Karnataka
+-Karnataka
 
-Kerala
+-Kerala
 
 📈 Key Features
 
-Electricity demand forecasting
+-Electricity demand forecasting
 
-Generation cost optimization
+-Generation cost optimization
 
-Renewable energy integration analysis
+-Renewable energy integration analysis
 
-Scenario-based power system assessment
+-Scenario-based power system assessment
 
-Decision-support framework for future energy planning
+-Decision-support framework for future energy planning
 
 📂 Repository Structure
 
@@ -103,8 +103,23 @@ South-India-Power-Grid/
 ├── Images/
 └── Results/
 
-📌 Note
+## 📂 Datasets
 
+The project uses multiple datasets collected, integrated, and processed to support the complete three-layer analytical framework.
+
+- Historical Electricity Demand Dataset – Daily electricity demand data used for demand forecasting.
+- Power Generation Dataset – Source-wise electricity generation data (Thermal, Solar, Wind, Hydro, and Nuclear) used for demand-supply analysis and generation optimization.
+- Installed Capacity Dataset – Historical and projected installed generation capacity for all major generation sources.
+- Weather Dataset(NASA POWER API) – Historical weather variables including temperature, humidity, rainfall, wind speed, and solar radiation used for feature engineering.
+  
+Note: 
+The analysis was performed using publicly available electricity datasets obtained from Kaggle. The original dataset includes electricity demand and generation data for multiple regions of India. For this project, the dataset was cleaned, preprocessed, and filtered to focus on the Southern Region (Tamil Nadu, Karnataka, Andhra Pradesh, Telangana, and Kerala).
+
+Source: [Kaggle – Daily_Power_Gen_Source_march_23.csv] (https://www.kaggle.com/datasets/krishnadaskv/daily-power-generation-in-india-2013-2023)
+
+Source: [Kaggle – India_Elec_data_(Jan2020-Mar2025).csv] (https://www.kaggle.com/datasets/preygle/indian-power-demand-and-shortage-data-2020-2025?select=India_Elec_data_%28Jan2020-Mar2025%29.csv)
+
+📌 Note
 This repository provides only an overview of the capstone project.
 
 The detailed methodology, source code, datasets, model configurations, and complete analytical results are not included, as the work is intended for future publication.
