@@ -1,6 +1,5 @@
-# Capstone-Project
 
-⚡ A Data-Driven Approach to Electricity Demand-Supply Forecasting, Generation Cost Optimization, and Scenario Analysis for the Southern India Power Grid
+#⚡ A Data-Driven Approach to Electricity Demand-Supply Forecasting, Generation Cost Optimization, and Scenario Analysis for the Southern India Power Grid
 
 📌 Project Overview
 
