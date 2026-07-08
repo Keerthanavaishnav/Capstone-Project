@@ -1,7 +1,7 @@
 
 ## ⚡ A Data-Driven Approach to Electricity Demand-Supply Forecasting, Generation Cost Optimization, and Scenario Analysis for the Southern India Power Grid
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project presents an integrated analytics framework for forecasting electricity demand and supply, optimizing generation costs, and evaluating future power system performance for the Southern India power grid.
 
@@ -14,7 +14,7 @@ The study focuses on the five Southern Region states:
 
 The project combines data analytics, machine learning, optimization techniques, and scenario analysis to support sustainable and cost-effective electricity planning.
 
-🎯 Objectives
+## 🎯 Objectives
 
 -Forecast future electricity demand and supply.
 -Optimize the electricity generation mix for minimum generation cost.
@@ -22,7 +22,7 @@ The project combines data analytics, machine learning, optimization techniques, 
 -Evaluate power system performance under different future scenarios.
 -Support data-driven planning for a reliable and sustainable power grid.
 
-🛠 Tools and Technologies
+## 🛠 Tools and Technologies
 
 -Python
 -Pandas
@@ -34,7 +34,7 @@ The project combines data analytics, machine learning, optimization techniques, 
 -Matplotlib
 -Microsoft Excel
 
-📊 Project Workflow
+## 📊 Project Workflow
 
 -Data Collection
 -Data Preprocessing
@@ -43,7 +43,7 @@ The project combines data analytics, machine learning, optimization techniques, 
 -Scenario Analysis
 -Result Interpretation
 
-🌍 Study Area
+## 🌍 Study Area
 
 The analysis covers the Southern Regional Power Grid of India, including:
 
@@ -53,7 +53,7 @@ The analysis covers the Southern Regional Power Grid of India, including:
 -Karnataka
 -Kerala
 
-📈 Key Features
+## 📈 Key Features
 
 -Electricity demand-supply forecasting
 -Generation cost optimizatio
@@ -61,7 +61,7 @@ The analysis covers the Southern Regional Power Grid of India, including:
 -Scenario-based power system assessment
 -Decision-support framework for future energy 
 
-📂 Datasets
+## 📂 Datasets
 
 The project uses multiple datasets collected, integrated, and processed to support the complete three-layer analytical framework.
 
@@ -90,9 +90,9 @@ This repository provides only an overview of the capstone project.
 
 The detailed methodology, source code, datasets, model configurations, and complete analytical results are not included, as the work is intended for future publication.
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-R.P.Keerthana
+**R.P.Keerthana**
 
 Post Graduate Diploma in Data Science & Business Analytics (PGDDSBA)
 
