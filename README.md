@@ -89,18 +89,7 @@ The analysis covers the Southern Regional Power Grid of India, including:
 
 -Scenario-based power system assessment
 
--Decision-support framework for future energy planning
-
-📂 Repository Structure
-
-South-India-Power-Grid/
-│
-├── README.md
-├── Datasets/
-├── Reports/
-├── Presentation/
-├── Images/
-└── Results/
+-Decision-support framework for future energy 
 
 ## 📂 Datasets
 
