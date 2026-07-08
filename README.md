@@ -3,66 +3,44 @@
 
 📌 Project Overview
 
-This project presents an integrated analytics framework for forecasting electricity demand, optimizing generation costs, and evaluating future power system performance for the Southern India power grid.
+This project presents an integrated analytics framework for forecasting electricity demand and supply, optimizing generation costs, and evaluating future power system performance for the Southern India power grid.
 
 The study focuses on the five Southern Region states:
-
--Andhra Pradesh
-
--Telangana
-
--Karnataka
-
--Kerala
-
 -Tamil Nadu
+-Andhra Pradesh
+-Telangana
+-Karnataka
+-Kerala
 
 The project combines data analytics, machine learning, optimization techniques, and scenario analysis to support sustainable and cost-effective electricity planning.
 
 🎯 Objectives
 
--Forecast future electricity demand.
-
+-Forecast future electricity demand and supply.
 -Optimize the electricity generation mix for minimum generation cost.
-
 -Analyze renewable energy integration.
-
 -Evaluate power system performance under different future scenarios.
-
 -Support data-driven planning for a reliable and sustainable power grid.
 
 🛠 Tools and Technologies
 
 -Python
-
 -Pandas
-
 -NumPy
-
 -Scikit-learn
-
 -TensorFlow / Keras
-
 -XGBoost
-
 -PuLP (Linear Programming)
-
 -Matplotlib
-
 -Microsoft Excel
 
 📊 Project Workflow
 
 -Data Collection
-
 -Data Preprocessing
-
 -Electricity Demand-Supply Forecasting
-
 -Generation Cost Optimization
-
 -Scenario Analysis
-
 -Result Interpretation
 
 🌍 Study Area
@@ -70,28 +48,20 @@ The project combines data analytics, machine learning, optimization techniques, 
 The analysis covers the Southern Regional Power Grid of India, including:
 
 -Tamil Nadu
-
 -Andhra Pradesh
-
 -Telangana
-
 -Karnataka
-
 -Kerala
 
 📈 Key Features
 
--Electricity demand forecasting
-
--Generation cost optimization
-
+-Electricity demand-supply forecasting
+-Generation cost optimizatio
 -Renewable energy integration analysis
-
 -Scenario-based power system assessment
-
 -Decision-support framework for future energy 
 
-## 📂 Datasets
+📂 Datasets
 
 The project uses multiple datasets collected, integrated, and processed to support the complete three-layer analytical framework.
 
@@ -123,7 +93,5 @@ The detailed methodology, source code, datasets, model configurations, and compl
 👩‍💻 Author
 
 R.P.Keerthana
-
 Post Graduate Diploma in Data Science & Business Analytics (PGDDSBA)
-
 Thiagarajar School of Management, Madurai
